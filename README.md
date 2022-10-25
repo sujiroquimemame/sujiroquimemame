@@ -3,7 +3,7 @@
  - 🌱 I’m currently learning about valorant
 - 💞️ I’m looking to collaborate on apace x
 - 📫 How to reach me brazil
--# intagram @vinicius.swz
+ instagram @vinicius.swz
 
 <!---
 sujiroquimemame/sujiroquimemame is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
